@@ -1,0 +1,10 @@
+.container {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.items {
+    display: inline-block;
+}
+
+
